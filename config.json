@@ -1,0 +1,19 @@
+{
+  "admob_open_ad_id": "ca-app-pub-3940256099942544/9257395921",
+  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "yandex_banner_id": "demo-banner-yandex",
+  "yandex_interstitial_id": "demo-interstitial-yandex",
+
+  "ads_enabled": true,
+  "ad_provider": "admob",
+  "open_ad_enabled": true,
+  "open_ad_cooldown_min": 5,
+  "interstitial_every_n_scans": 5,
+
+  "privacy_policy_url": "https://metosapps.github.io/qrscanner-pro-config/privacy.html",
+  "terms_url": "https://metosapps.github.io/qrscanner-pro-config/terms.html",
+  "more_apps_url": "samsungapps://SellerDetail/YOUR_SELLER_ID",
+  "galaxy_store_app_url": "samsungapps://ProductDetail/com.qrpro.scanner",
+  "galaxy_store_review_url": "samsungapps://ProductDetail/com.qrpro.scanner?reviewOpen=true"
+}
