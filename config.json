@@ -15,5 +15,8 @@
   "terms_url": "https://metosapps.github.io/qrscanner-pro-config/terms.html",
   "more_apps_url": "samsungapps://SellerDetail/YOUR_SELLER_ID",
   "galaxy_store_app_url": "samsungapps://ProductDetail/com.qrpro.scanner",
-  "galaxy_store_review_url": "samsungapps://ProductDetail/com.qrpro.scanner?reviewOpen=true"
+  "galaxy_store_review_url": "samsungapps://ProductDetail/com.qrpro.scanner?reviewOpen=true",
+
+  "iap_weekly_id": "qrpro_weekly_299",
+  "iap_lifetime_id": "qrpro_lifetime_999"
 }

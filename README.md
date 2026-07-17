@@ -29,6 +29,8 @@ Edit `config.json` and every install picks up the change within ~3 hours — **n
 | `more_apps_url` | Galaxy Store seller page (More Apps button) |
 | `galaxy_store_app_url` | App page deep link (Share button) |
 | `galaxy_store_review_url` | Review deep link (Rate App button) |
+| `iap_weekly_id` | Samsung IAP product ID — weekly subscription |
+| `iap_lifetime_id` | Samsung IAP product ID — lifetime unlock |
 
 Blank/missing keys fall back to the app's built-in defaults.
 
